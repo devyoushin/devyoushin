@@ -11,6 +11,7 @@ I'm interested in designing and operating scalable cloud infrastructure.
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white"
 </div>
 
 
