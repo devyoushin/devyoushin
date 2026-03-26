@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm interested in designing and operating scalable cloud infrastructure.
+**I'm interested in designing and operating scalable cloud infrastructure, with a focus on automation and AI-driven development**.
 
 <div>
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
